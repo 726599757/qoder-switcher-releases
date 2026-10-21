@@ -2,12 +2,12 @@
 
 # Qoder Switcher
 
-面向 Qoder 的本机多账号加速网关 · 安装包下载
+面向 Qoder 的本机多账号加速网关
 
 [![Version](https://img.shields.io/github/v/release/726599757/qoder-switcher-releases?display_name=tag&style=flat-square)](https://github.com/726599757/qoder-switcher-releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-0ea5e9?style=flat-square)](https://github.com/726599757/qoder-switcher-releases/releases)
 
-本仓库**只有安装包**，没有源码。到 [Releases](https://github.com/726599757/qoder-switcher-releases/releases) 下载对应系统的**单个文件**（不是压缩包）。
+到 [Releases](https://github.com/726599757/qoder-switcher-releases/releases) 下载对应系统的安装包。
 
 </div>
 
