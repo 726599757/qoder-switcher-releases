@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/github/v/release/726599757/qoder-switcher-releases?display_name=tag&style=flat-square)](https://github.com/726599757/qoder-switcher-releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-0ea5e9?style=flat-square)](https://github.com/726599757/qoder-switcher-releases/releases)
 
-本仓库**只有安装包**，没有源码。到 [Releases](https://github.com/726599757/qoder-switcher-releases/releases) 下载对应系统的文件。
+本仓库**只有安装包**，没有源码。到 [Releases](https://github.com/726599757/qoder-switcher-releases/releases) 下载对应系统的**单个文件**（不是压缩包）。
 
 </div>
 
@@ -18,7 +18,8 @@
 | --- | --- |
 | Windows | `QoderSwitcher-<版本>-windows-amd64.exe` |
 | Linux | `QoderSwitcher-<版本>-linux-amd64.AppImage` |
-| macOS（Apple Silicon） | `QoderSwitcher-<版本>-darwin-arm64.dmg` |
+| macOS（Apple 芯片） | `QoderSwitcher-<版本>-darwin-arm64.dmg` |
+| macOS（Intel） | `QoderSwitcher-<版本>-darwin-amd64.dmg` |
 
 校验：同一 Release 里的 `SHA256SUMS.txt`。
 
